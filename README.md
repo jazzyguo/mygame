@@ -1,2 +1,2 @@
 # mygame
-experimenting with phaser game enginge
+experimenting with phaser game engine
