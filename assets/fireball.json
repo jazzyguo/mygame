@@ -1,0 +1,245 @@
+{
+  "name": "Fireball",
+  "width": 32,
+  "height": 32,
+  "frameData": [
+    {
+      "offsetX": 0,
+      "offsetY": 0,
+      "state": "default",
+      "frame": 0,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 0,
+      "state": "default",
+      "frame": 1,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 32,
+      "state": "default",
+      "frame": 2,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 32,
+      "state": "default",
+      "frame": 3,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 64,
+      "state": "default",
+      "frame": 4,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 64,
+      "state": "default",
+      "frame": 5,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 96,
+      "state": "default",
+      "frame": 6,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 96,
+      "state": "default",
+      "frame": 7,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 128,
+      "state": "default",
+      "frame": 8,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 128,
+      "state": "default",
+      "frame": 9,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 160,
+      "state": "default",
+      "frame": 10,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 160,
+      "state": "default",
+      "frame": 11,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 192,
+      "state": "default",
+      "frame": 12,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 192,
+      "state": "default",
+      "frame": 13,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 224,
+      "state": "default",
+      "frame": 14,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 224,
+      "state": "default",
+      "frame": 15,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 256,
+      "state": "default",
+      "frame": 16,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 256,
+      "state": "right",
+      "frame": 0,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 288,
+      "state": "right",
+      "frame": 1,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 288,
+      "state": "right",
+      "frame": 2,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 320,
+      "state": "right",
+      "frame": 3,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 320,
+      "state": "right",
+      "frame": 4,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 352,
+      "state": "right",
+      "frame": 5,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 352,
+      "state": "right",
+      "frame": 6,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 384,
+      "state": "right",
+      "frame": 7,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 384,
+      "state": "right",
+      "frame": 8,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 416,
+      "state": "right",
+      "frame": 9,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 416,
+      "state": "right",
+      "frame": 10,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 448,
+      "state": "right",
+      "frame": 11,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 448,
+      "state": "right",
+      "frame": 12,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 480,
+      "state": "right",
+      "frame": 13,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 480,
+      "state": "right",
+      "frame": 14,
+      "duration": 42
+    },
+    {
+      "offsetX": 0,
+      "offsetY": 512,
+      "state": "right",
+      "frame": 15,
+      "duration": 42
+    },
+    {
+      "offsetX": 32,
+      "offsetY": 512,
+      "state": "right",
+      "frame": 16,
+      "duration": 42
+    }
+  ]
+}
